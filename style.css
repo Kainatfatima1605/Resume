@@ -1,0 +1,216 @@
+.container{
+   /* background-color: aqua;  */
+   padding: 1px;
+   margin: 5px;
+   /* width: auto;
+   height: auto; */
+}
+/* right site div start */
+.rightdiv{
+    padding: 1px;
+    background-color: rgb(213, 199, 177);
+    width: 24%;
+    height: 800px;
+   float: left;
+   position: fixed;
+   border-radius: 30px;
+
+}
+/* right start div end */
+/* left sit div start */
+.leftdiv{
+    padding: 5px;
+    background-color:  rgb(236, 220, 220);;
+    width: 75%;
+   height: 4700px;
+    float: right;
+
+}
+/* left site div end */
+/* profile start */
+.profile{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: aliceblue;
+     margin: 50px;
+     box-shadow: 10px 10px 10px rgb(53, 35, 35);
+     outline: 2px solid rgb(211, 104, 104);
+     background-size: cover;
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Hxu6Nqu9Rm6Ns5zXoV33Gi49aKyBBd_kMK1hTdiMuDYapTxhX7AbOC4_g9B2SSDyg8I&usqp=CAU);
+}
+/* profile end */
+/* about start */
+.about,a{
+line-height: 60px;
+    /* display: inline-block; */
+    padding: 5px;
+    margin: 30px;
+    text-decoration: none;
+    font-style: bold;
+    font-size: x-large;
+}
+/* kainat */
+.name{
+    position:fixed ;
+    height: 250;
+    width: 1089px;
+    padding: 10px;
+    margin: 5px; 
+    align-items: center;
+    text-transform: capitalize;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    font-size: xx-large;
+    color: brown;
+    background-color: rgb(240, 211, 175);
+    outline:  4px solid orange; 
+    border-radius: 5%;
+    box-shadow: 10px 10px 10px rgb(153, 124, 55);
+     
+}
+/* name end */
+/* objective */
+#objective>h1{
+    padding-top: 230px;
+    margin-top: 50px;
+    /* padding: 5px;
+    margin: 10px; */
+    font-size: xxx-large;
+color: brown;
+text-decoration: dotted;
+font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#objective{ 
+    margin: 20px;
+    word-spacing: 10px;
+    text-transform: capitalize;
+    color: black;
+    font-size: large;
+   
+}
+.a123{ 
+    color: blue;
+    font-size: 70px;
+}
+.a123:hover{
+    color: black;
+}
+/* objective end */
+/* experience */
+#exp{
+    padding: 15px;
+    margin: 20px;
+    font-size: large;
+}
+#exp>h3{
+    color: brown;
+    font-size: xxx-large;
+    text-decoration: dotted; 
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#exp>h4{
+    color: blue;
+    font-size: larger;
+}
+#exp>h6{
+color: orangered;
+float: right;
+font-size: large;
+}
+#edu>h3{
+    color: brown;
+    font-size: xxx-large;
+    text-decoration: dotted; 
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#edu>h4{
+    color: blue;
+    font-size: larger;
+}
+/* experienc end */
+/* education work start */
+#edu{
+    padding: 15px;
+    margin: 20px;
+    font-size: large;
+}
+#edu>h6{
+    color: orangered;
+    float: right;
+    font-size: large;
+    }
+/* education work end */
+#skill{
+    padding: 15px;
+    margin: 20px;
+    font-size: large;
+}
+#skill>h3{
+    color: brown;
+    font-size: xxx-large;
+    text-decoration: dotted; 
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#skill>P{
+    color:gray;
+
+    font-size: 10px;
+    /* float: left;  */
+    font-size: 30px;
+    word-spacing: 50px;
+display: inline-block;
+ }
+h6{
+font-size: 18px; 
+}
+#interset{
+    padding: 15px;
+    margin: 20px;
+    font-size: large;
+}
+#interset>p{     
+padding: 10px;
+margin: 20px;
+font-size: large;
+
+}
+#award{
+    padding: 15px;
+    margin: 20px;
+    font-size: large;
+}
+
+#award>h3{
+    color: brown;
+    font-size: xxx-large;
+    text-decoration: dotted; 
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#award>h6{
+word-spacing: 5px;
+line-height: 1px;
+}
+#award>.fa-sharp {
+    color: rgb(209, 178, 7); 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
